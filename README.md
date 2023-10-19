@@ -5,6 +5,7 @@ gbo2 auto ab room 激战任务2自动ab房脚本（房主B）
 基于python编写的脚本，运行源码前记得导库，下为用到的第三方库
 psutil pyautogui pygetwindow opencv-python
 请使用pip安装
+运行程序时，请确保sc文件夹和py文件在同一目录下
 若有问题需要交流，可以加我的qq：2085126610，我的bilibili账号：雨辰official，我的邮箱：2085126610@qq.com
 
 存在bug：
