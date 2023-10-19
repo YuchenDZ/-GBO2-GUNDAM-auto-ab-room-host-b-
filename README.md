@@ -1,4 +1,4 @@
-# -GBO2-GUNDAM-auto-abroomhostb-
+# -GBO2-MOBILE SUIT GUNDAMBATTLE OPERATION 2-auto-abroomhostb-高达激战任务2-gundam game-
 gbo2 auto ab room 激战任务2自动ab房脚本（房主B）
 请关注作者bilibili 雨辰official
 此程序完全免费，只作为自动化测试编程交流学习之用。切勿用做商业用途！请在学习完成后自行删除，若有违反，后果自负！
